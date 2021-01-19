@@ -1,9 +1,9 @@
-# Hi, I am Erica! 
-:-----:|:-----:
+# Hi There, I am Erica! 
+
+![portfolio](photos/DSC00192.JPG =50x50)
 I am a senior student at the [University of Michigan Ann Arbor](https://umich.edu). 
 I major [in Honor Mathematics](https://lsa.umich.edu/math/) and [Computer Science](https://cse.engin.umich.edu/). I am interested in origami, skating, and photography. 
-My current favorite game is MindBender. | ![portfolio](photos/DSC00192.JPG =50x50)
- 
+My current favorite game is MindBender. 
 
 ### [Experience](#experience)
 ### [Projects](#projects)
