@@ -1,11 +1,33 @@
 <!DOCTYPE html>
 	<html>
 		<head>
+			<meta name="viewport" content="width=device-width, initial-scale=1">
+			<style>
+			* {
+			  box-sizing: border-box;
+			}
+
+			/* Create two equal columns that floats next to each other */
+			.column {
+			  float: left;
+			  width: 50%;
+			  padding: 10px;
+			  height: 300px; /* Should be removed. Only for demonstration */
+			}
+
+			/* Clear floats after the columns */
+			.row:after {
+			  content: "";
+			  display: table;
+			  clear: both;
+			}
+			</style>
 			<title>{{ page.title }}</title>
 			<!-- link to main stylesheet -->
 			<link rel="stylesheet" type="text/css" href="/css/main.css">
 		</head>
 		<body>
+			/*
 			<nav>
 	    		<ul>
 	        		<li><a href="/">Home</a></li>
@@ -14,6 +36,7 @@
 	        		<li><a href="/blog">Blog</a></li>
 	    		</ul>
 			</nav>
+			*/
 			<div class="row">
   				<div class="column">
 					<p float="right">
@@ -21,6 +44,7 @@
 						I major in Honor Mathematics and Computer Science.
 						I am interested in origami, skating, and photography.
 						My current favorite game is MindBender.
+					</p>
 				</div>
 				<div class="column">
 					<p float="left">
