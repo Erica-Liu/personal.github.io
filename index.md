@@ -21,18 +21,18 @@ My current favorite game is MindBender.
 
 # **Interesting Projects**
 
-> Hexagon Deformations 
-> * See our updated preprint [here](Hexagon_Project.pdf)
+* Hexagon Deformations 
+    * See our updated preprint [here](Hexagon_Project.pdf).
 
-> Efficient eigensolvers
-> * See our github page [here](https://icerm-efficient-eigensolvers-2020.github.io/EE_with_applications/)
+* Efficient eigensolvers
+    * See our github page [here](https://icerm-efficient-eigensolvers-2020.github.io/EE_with_applications/).
 
-> Origami on Lattices
-> * See our poster [here](https://sites.lsa.umich.edu/logm/wp-content/uploads/sites/464/2019/08/w19_origami_poster.pdf)
+* Origami on Lattices
+    * See our poster [here](https://sites.lsa.umich.edu/logm/wp-content/uploads/sites/464/2019/08/w19_origami_poster.pdf).
 
 
 
-# **More**
+## **More**
 #### My Chinese name is 刘宇晴, 宇 in classical Chinese means the whole space, 晴 means sunny.
 
 #### 2017 I was in Tianjin University.
