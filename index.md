@@ -21,14 +21,17 @@ My current favorite game is MindBender.
 
 # **Interesting Projects**
 
-* Hexagon Deformations 
-    * See our updated preprint [here](Hexagon_Project.pdf).
+**Hexagon Deformations** 
+See our updated preprint [here](Hexagon_Project.pdf).
 
-* Efficient eigensolvers
-    * See our github page [here](https://icerm-efficient-eigensolvers-2020.github.io/EE_with_applications/).
 
-* Origami on Lattices
-    * See our poster [here](https://sites.lsa.umich.edu/logm/wp-content/uploads/sites/464/2019/08/w19_origami_poster.pdf).
+**Efficient eigensolvers**
+
+See our github page [here](https://icerm-efficient-eigensolvers-2020.github.io/EE_with_applications/).
+
+**Origami on Lattices**
+
+See our poster [here](https://sites.lsa.umich.edu/logm/wp-content/uploads/sites/464/2019/08/w19_origami_poster.pdf).
 
 
 
