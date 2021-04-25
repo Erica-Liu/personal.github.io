@@ -5,24 +5,25 @@ I major [in Honor Mathematics](https://lsa.umich.edu/math/) and [Computer Scienc
 My current favorite game is MindBender. 
 --->
 
-## Experience
-###2020 Fall I was a teaching assistant for EECS 477: Introduction to Algorithms.
+Experience
 
-###2020 Summer I was doing REU at [SUMMER@ICERM](https://icerm.brown.edu/summerug/2020/) at Brown Univeristy.
+2020 Fall I was a teaching assistant for EECS 477: Introduction to Algorithms.
 
-###2019 Summer I was at Facebook, Inc. as a software engineering intern.
+2020 Summer I was doing REU at [SUMMER@ICERM](https://icerm.brown.edu/summerug/2020/) at Brown Univeristy.
 
-###2018 Fall I was in Umich programming team.
+2019 Summer I was at Facebook, Inc. as a software engineering intern.
 
-###2018-2019 I was in Radiology Research Lab.
+2018 Fall I was in Umich programming team.
+
+2018-2019 I was in Radiology Research Lab.
 
 
-## Interesting Projects
-### Hexagon Deformations
-####See our updated preprint [here](Hexagon_Project.pdf)
+Interesting Projects
+Hexagon Deformations
+See our updated preprint [here](Hexagon_Project.pdf)
 
-### Efficient eigensolvers
-#### See our github page [here](https://icerm-efficient-eigensolvers-2020.github.io/EE_with_applications/)
+Efficient eigensolvers
+See our github page [here](https://icerm-efficient-eigensolvers-2020.github.io/EE_with_applications/)
 
 #### Origami on Lattices
 
