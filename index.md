@@ -45,7 +45,7 @@ My current favorite game is MindBender.
 
 
 
-#### See my personal webpage [here](https://erica-liu.github.io/)
+%#### See my personal webpage [here](https://erica-liu.github.io/)
 
 
 
